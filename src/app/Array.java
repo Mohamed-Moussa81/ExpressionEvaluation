@@ -3,7 +3,7 @@ package app;
  * This class holds a (name, array of integer values) pair for an array. 
  * The name is a sequence of one or more letters. 
  * 
- * @author ru-nb-cs112
+ * @author Mohamed Moussa
  *
  */
 public class Array {
